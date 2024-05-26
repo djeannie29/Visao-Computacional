@@ -1,0 +1,87 @@
+(Música)
+Antes de mergulharmos profundamente em como a IA funciona,
+e seus vários casos de uso e aplicações,
+vamos diferenciar alguns dos termos e
+conceitos de IA intimamente relacionados: inteligência artificial,
+aprendizado de máquina, aprendizado profundo e redes neurais.
+Esses termos às vezes são usados de maneira intercambiável,
+mas eles não se referem à mesma coisa.
+A inteligência artificial é um ramo da
+ciência da computação que lida com
+uma simulação de comportamento inteligente.
+Os sistemas de IA irão
+tipicamente demonstrar comportamentos associados
+com a inteligência humana, tais
+como planejamento, aprendizado, raciocínio,
+resolução de problemas, representação de conhecimento,
+percepção, movimento,
+e manipulação, e em
+menor grau inteligência social e criatividade.
+O aprendizado de máquina é um subconjunto de
+IA que usa algoritmos de computador
+para analisar dados e tomar
+decisões inteligentes com base no que aprendeu,
+sem ser explicitamente programado.
+Os algoritmos de aprendizado de máquina são treinados com
+grandes conjuntos de dados e aprendem com exemplos.
+Eles não seguem algoritmos baseados em regras.
+O aprendizado de máquina é o que permite
+às máquinas resolverem problemas por conta própria e fazerem previsões precisas
+usando os dados fornecidos.
+O aprendizado profundo é um subconjunto especializado
+do aprendizado de máquina que
+usa redes neurais em camadas
+para simular a tomada de decisões humanas.
+Os algoritmos de aprendizado profundo podem rotular e
+categorizar informações e identificar padrões.
+É o que permite aos sistemas de IA
+aprenderem continuamente no trabalho,
+e melhorar a qualidade e a precisão dos
+resultados ao determinar se as decisões foram corretas.
+As redes neurais artificiais, muitas vezes referidas simplesmente como
+redes neurais, se inspiram
+nas redes neurais biológicas,
+embora funcionem de maneira bastante diferente.
+Uma rede neural em IA é
+uma coleção de pequenas unidades de computação chamadas
+neurônios que recebem dados de entrada
+e aprendem a tomar decisões ao longo do tempo.
+As redes neurais são frequentemente estratificadas profundamente e são a razão
+pela qual os algoritmos de aprendizado profundo se tornam mais
+eficientes à medida que os conjuntos de dados aumentam em volume,
+ao contrário de outros algoritmos de aprendizado de máquina
+que podem atingir um platô à medida que os dados aumentam.
+Agora que você tem uma compreensão ampla das
+diferenças entre alguns conceitos-chave de IA,
+há mais uma diferenciação
+que é importante entender,
+entre inteligência artificial e ciência de dados.
+A ciência de dados é o processo e método para extrair
+conhecimento e insights de
+grandes volumes de dados díspares.
+É um campo interdisciplinar que envolve matemática,
+análise estatística, visualização de dados,
+aprendizado de máquina e muito mais.
+É o que nos permite
+apropriar informações, ver padrões,
+encontrar significado em grandes volumes de dados,
+e usá-lo para tomar decisões que impulsionam os negócios.
+A Ciência de Dados pode usar muitas das
+técnicas de IA para obter insights dos dados.
+Por exemplo, poderia usar algoritmos de aprendizado de máquina e
+até modelos de aprendizado profundo para extrair
+significado e tirar inferências dos dados.
+Há alguma interseção entre IA e ciência de dados,
+mas um não é um subconjunto do outro.
+Em vez disso, a ciência de dados é um termo amplo que
+engloba toda a metodologia de processamento de dados.
+Bem, a IA inclui tudo que permite aos computadores
+aprenderem como resolver
+problemas e tomar decisões inteligentes.
+Tanto a IA quanto a Ciência de Dados podem envolver o uso de
+big data, ou seja, volumes de dados significativamente grandes.
+Nas próximas lições,
+os termos aprendizado de máquina,
+aprendizado profundo e redes neurais
+serão discutidos com mais detalhes.
+(Música)

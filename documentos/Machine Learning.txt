@@ -1,0 +1,109 @@
+Machine Learning, um subconjunto da IA,
+usa algoritmos de computador para analisar dados e
+tomar decisões inteligentes com base no que aprendeu.
+Em vez de seguir algoritmos baseados em regras,
+o aprendizado de máquina cria modelos para
+classificar e fazer previsões a partir de dados.
+Vamos entender isso explorando um problema
+podemos resolver com o aprendizado de máquina.
+E se quisermos determinar se um coração pode falhar,
+isso é algo que podemos resolver com aprendizado de máquina?
+A resposta é sim.
+Digamos que recebemos dados como
+batimentos por minuto, índice de massa corporal,
+idade, sexo e o resultado
+se o coração falhou ou não.
+Com o aprendizado de máquina dado este conjunto de dados,
+somos capazes de aprender e criar um modelo
+que, dadas as informações, preverão os resultados.
+Então, qual é a diferença entre isso e usar
+análise estatística para criar um algoritmo?
+Um algoritmo é uma técnica matemática.
+Com a programação tradicional, pegamos dados e regras,
+e usá-los para desenvolver
+um algoritmo que nos dará uma resposta.
+No exemplo anterior,
+se estivéssemos usando um algoritmo tradicional,
+pegaríamos dados como batimentos por minuto e IMC,
+e use esses dados para criar um algoritmo que
+determinará se o coração irá falhar ou não.
+Essencialmente, seria uma declaração if-then-else.
+Quando enviamos contribuições,
+obtemos respostas com base em
+qual é o algoritmo que determinamos,
+e este algoritmo não mudará.
+O aprendizado de máquina, por outro lado,
+pega dados e respostas e cria o algoritmo.
+Em vez de obter respostas no final,
+já temos as respostas.
+O que obtemos é um conjunto de regras que
+determinar qual será o modelo de aprendizado de máquina.
+O modelo determina as regras,
+e a instrução if-then-else quando obtém as entradas.
+Essencialmente, o que o modelo faz é determinar
+quais são os parâmetros em um algoritmo tradicional;
+e em vez de decidir arbitrariamente que
+batimentos por minuto mais IMC é igual a um determinado resultado,
+usamos o modelo para determinar qual será a lógica.
+Este modelo, diferentemente de um algoritmo tradicional,
+pode ser continuamente treinado e
+ser usado no futuro para prever valores.
+O aprendizado de máquina depende da definição de regras comportamentais por
+examinando e comparando grandes conjuntos de dados
+para encontrar padrões comuns.
+Por exemplo, podemos fornecer
+um programa de aprendizado de máquina com
+um grande volume de fotos de
+pássaros e treinar o modelo para retornar
+o rótulo "pássaro" sempre que
+forneceu a imagem de um pássaro.
+Também podemos criar um rótulo para “gato”
+e forneça fotos de gatos para treinar.
+Quando o modelo da máquina é mostrado
+uma foto de um gato ou de um pássaro,
+ele rotulará a imagem com algum nível de confiança.
+Este tipo de aprendizado de máquina
+é chamado de Aprendizagem Supervisionada,
+onde um algoritmo é treinado em dados rotulados por humanos.
+Quanto mais amostras você fornecer
+um algoritmo de aprendizagem supervisionada,
+mais preciso se torna na classificação de novos dados.
+Aprendizagem não supervisionada, outro tipo de linguagem de máquina,
+depende de fornecer o algoritmo
+dados não rotulados e permitindo que ele encontre padrões por si só.
+Você fornece a entrada, mas não os rótulos,
+e deixe a máquina inferir qualidades que
+algoritmo ingere dados não rotulados,
+faz inferências e encontra padrões.
+Este tipo de aprendizagem pode ser útil para agrupar dados,
+onde os dados são agrupados de acordo com sua similaridade
+aos seus vizinhos e diferente de todo o resto.
+Depois que os dados são agrupados,
+diferentes técnicas podem ser usadas para
+explore esses dados e procure padrões.
+Por exemplo, você fornece
+um algoritmo de aprendizado de máquina com
+um fluxo constante de tráfego de rede e
+deixe-o aprender independentemente a linha de base,
+atividade normal da rede, bem como o outlier e
+comportamento possivelmente malicioso acontecendo na rede.
+O terceiro tipo de algoritmo de aprendizado de máquina,
+Aprendizagem por Reforço,
+depende do fornecimento de um algoritmo de aprendizado de máquina
+com um conjunto de regras e restrições,
+e deixá-lo aprender como atingir seus objetivos.
+Você define o estado,
+o objetivo desejado, ações permitidas e restrições.
+O algoritmo descobre como alcançar
+o objetivo tentando diferentes combinações
+de ações permitidas,
+e é recompensado ou punido
+dependendo se a decisão foi boa.
+O algoritmo tenta o seu melhor para maximizar
+suas recompensas dentro das restrições fornecidas.
+Você poderia usar o Aprendizado por Reforço para ensinar
+uma máquina para jogar xadrez ou navegar em uma pista de obstáculos.
+Um modelo de aprendizado de máquina é um algoritmo usado
+encontrar padrões nos dados sem
+o programador tem que
+programar explicitamente esses padrões.
