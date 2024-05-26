@@ -17,5 +17,8 @@ Uma plataforma de código aberto para machine learning.
 ![Logo do OpenCV](https://img.shields.io/badge/OpenCV-5882FA?style=for-the-badge&logo=TensorFlow&logoColor=white)
 Uma biblioteca de código aberto de visão computacional e aprendizado de máquina.
 
+![Logo do PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=PyTorch&logoColor=white)
+O PyTorch é uma biblioteca de aprendizado profundo amplamente utilizada em visão computacional. Ele oferece ferramentas poderosas para a construção de redes neurais, permitindo a criação de modelos complexos para tarefas como reconhecimento de objetos, segmentação de imagens e detecção de rostos. Sua facilidade de uso e flexibilidade fazem do PyTorch uma escolha popular entre pesquisadores e desenvolvedores.
+
 ![Logo do Google Colab](https://img.shields.io/badge/Google-Colab-FE642E?style=for-the-badge&logo=Scikit-learn&logoColor=white)
 Uma plataforma gratuita baseada na nuvem que permite escrever, executar e compartilhar código em Python diretamente no navegador, sem a necessidade de configuração de ambiente. Ele oferece suporte a bibliotecas populares de machine learning, como TensorFlow, PyTorch, OpenCV, entre outras, e também inclui acesso gratuito a GPUs e TPUs para acelerar o treinamento de modelos.
