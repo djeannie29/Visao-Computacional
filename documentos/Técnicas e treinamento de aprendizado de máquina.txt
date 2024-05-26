@@ -1,0 +1,57 @@
+(Música)
+O aprendizado de máquina é um campo amplo e podemos dividi-lo em três categorias diferentes,
+Aprendizagem supervisionada, aprendizagem não supervisionada e aprendizagem por reforço.
+Existem muitas tarefas diferentes que podemos resolver com eles.
+Aprendizagem Supervisionada refere-se a quando temos rótulos de classe em
+o conjunto de dados e os usamos para construir o modelo de classificação.
+O que isso significa é que quando recebemos dados, eles possuem rótulos que dizem o que os dados representam.
+Em um exemplo anterior, tínhamos uma tabela com rótulos como idade ou
+sexo. Com a aprendizagem não supervisionada, não temos
+rótulos de classe e devemos descobrir rótulos de classe não estruturados
+dados. Isso pode envolver coisas como
+aprendizagem profunda olhando fotos para treinar modelos.
+Coisas como essa normalmente são feitas com algo chamado clustering.
+O Aprendizado por Reforço é um subconjunto diferente, e o que isso faz é usar uma função de recompensa
+para penalizar más ações ou recompensar boas ações.
+Dividindo a Aprendizagem Supervisionada, podemos dividi-la em três categorias,
+Regressão, Classificação e Redes Neurais. Modelos de regressão são construídos por
+olhando para as relações entre os recursos x e o resultado
+y onde y é uma variável contínua. Essencialmente, a regressão estima contínua
+valores. Redes Neurais referem-se a estruturas
+que imitam a estrutura do cérebro humano. A classificação, por outro lado,
+concentra-se em valores discretos que identifica. Podemos atribuir rótulos de classe discretos
+y com base em muitos recursos de entrada x. Em um exemplo anterior,
+dado um conjunto de características x, como batidas por minuto,
+índice de massa corporal, idade e sexo, o algoritmo classifica a saída y
+como duas categorias, Verdadeiro ou Falso, prevendo se o coração irá falhar ou
+não. Em outros modelos de classificação,
+podemos classificar os resultados em mais de duas categorias.
+Por exemplo, prever se uma receita é para um indiano,
+Prato chinês, japonês ou tailandês. Algumas formas de classificação incluem decisão
+árvores, máquinas de vetores de suporte,
+regressão logística e florestas aleatórias. Com a Classificação, podemos
+extrair recursos dos dados. Os recursos neste exemplo seriam
+ser batidas por minuto ou idade. Recursos são propriedades distintas
+de padrões de entrada que ajudam a determinar as categorias de saída
+ou classes de saída. Cada coluna é um recurso e cada linha é um
+ponto de dados. Classificação é o processo de
+prever a classe de determinados pontos de dados. Nosso classificador usa alguns dados de treinamento para
+entender como determinadas variáveis de entrada se relacionam com essa classe.
+O que exatamente queremos dizer com treinamento? Treinamento refere-se ao uso
+um algoritmo de aprendizagem para determinar e desenvolver os parâmetros do seu modelo.
+Embora existam muitos algoritmos para fazer isso, em termos leigos,
+se você estiver treinando um modelo para prever se o coração irá falhar ou não,
+ou seja, valores Verdadeiro ou Falso, você mostrará o algoritmo
+alguns dados da vida real rotulados como True e, em seguida, mostrando o algoritmo novamente,
+alguns dados rotulados como False, e você repetirá este processo
+com dados com valores Verdadeiro ou Falso, isto é, se o coração realmente falhou
+ou não. O algoritmo modifica valores internos
+até aprender a distinguir, a partir de dados que indicam insuficiência cardíaca, que
+é verdadeiro ou não, isso é falso. Com o aprendizado de máquina, normalmente levamos
+um conjunto de dados e dividi-lo em três conjuntos, conjuntos de treinamento, validação e teste.
+O subconjunto de treinamento são os dados usados para treinar o algoritmo.
+O subconjunto Validação é usado para validar nossos resultados e ajustar o algoritmo
+parâmetros. Os dados de teste são os dados que o modelo possui
+nunca visto antes e usado para avaliar quão bom é o nosso modelo
+é. Podemos então indicar quão bom
+o modelo usa termos como exatidão, precisão e recall.
